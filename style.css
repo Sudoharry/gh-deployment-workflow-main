@@ -6,7 +6,7 @@ body, h1, h2, p, ul, li, form, input, textarea, button {
 }
 
 body {
-    font-family: Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     line-height: 1.6;
     background-color: #f4f4f9;
     color: #333;
